@@ -1,1 +1,1 @@
-0x17. C - Doubly linked lists Readme
+0x1A. C - Hash tables
